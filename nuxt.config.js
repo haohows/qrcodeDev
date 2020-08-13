@@ -30,7 +30,7 @@ export default {
     script:
       [
         {
-          src: '/js/qrcode.min.js'
+          src: '/qrcode/js/qrcode.min.js'
         }
       ]
 
